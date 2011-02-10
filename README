@@ -1,0 +1,5 @@
+Based on jQuery Appear by Michael Hixson: http://code.google.com/p/jquery-appear/
+
+This version is a fork of Vitor Mateus' modifed version, which added support for a disappear listener.
+
+Current version has changed to using an interval based listener, rather than triggering on every scroll event, as recommended by John Resig: http://ejohn.org/blog/learning-from-twitter/
