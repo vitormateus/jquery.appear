@@ -1,7 +1,9 @@
 {
-  "name": "jquery-appear",  
-  "version": "1.1.1",
-  "author": "Michael Hixson",
+  "name": "jquery-appear",
+  "version": "1.1.2",
   "description": "Mimics a custom \"appear\" event, which fires when an element scrolls into view or otherwise becomes visible to the user. Originally from http://code.google.com/p/jquery-appear",
-  "main": "jquery.appear.js"
+  "main": "jquery.appear.js",
+  "dependencies": {
+    "jquery": ">=1.10.2"
+  }
 }
